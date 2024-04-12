@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://github.com/Donjosx/SlapBattle_Scripts/blob/main/God_Mode_V2")))() 
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Donjosx/SlapBattle_Scripts/main/God_Mode_V2")))() 
