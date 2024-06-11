@@ -1,1 +1,8 @@
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Donjosx/SlapBattle_Scripts/main/Gloves-Abuser")))()
+-- Setting 
+_G.ActiveAbility = true
+_G.VictimSetting = "Nearest" --  Self, Nearest, Others , Random
+_G.GloveStatsChanger = false
+_G.StatsChangeValue = "spin"
+_G.DiveBombRange = 500 -- Min 0 and Max 500
+_G.GoldenCancelColor = 131
